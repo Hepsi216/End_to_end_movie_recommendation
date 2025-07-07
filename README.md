@@ -1,4 +1,11 @@
 # Movie-Recommendation-System
+By [<b>Hepsi Rani</b>](https://www.linkedin.com/in/hepsi-rani-4b78a3344/)
+
+
+Connect with me on social media and explore my work:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hepsi-rani-4b78a3344/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/Hepsi216)
 
 # About this Project
 
